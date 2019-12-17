@@ -69,6 +69,24 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_route:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "90f6c6102b2d0214946a338328929eda7b40def3"
+      url: "https://github.com/pdliuw/flutter_route.git"
+    source: git
+    version: "0.0.1"
+  flutter_scanner:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: cbccb0ad822e68061d74083fe8a10245c2e24136
+      url: "https://github.com/pdliuw/flutter_scanner.git"
+    source: git
+    version: "0.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
